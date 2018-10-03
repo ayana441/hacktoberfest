@@ -1,0 +1,7 @@
+try:
+	a=input("Enter expression")
+	l=eval(a)
+	print (l)
+except:
+  	print("1/0 division not possible")
+
