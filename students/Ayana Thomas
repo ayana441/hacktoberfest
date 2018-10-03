@@ -1,0 +1,8 @@
+a=input("enter a string")
+j = 0
+x=0
+while j < len(a):
+	if a[j]==' ':
+		x+=1
+	j += 1
+print(x+1)
